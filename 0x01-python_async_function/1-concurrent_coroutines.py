@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
-
+"""Contains a method that spawns wait_random n times with a
+specified delay between each call."""
 
 import asyncio
 from typing import List
